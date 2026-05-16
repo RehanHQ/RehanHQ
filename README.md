@@ -2,7 +2,7 @@
 🔭 I’m currently working on<br>Agentic AI proof-of-concepts using AutoGen, LangGraph, RAG pipelines, and observability, plus a full-stack Travel Assistant with FastAPI + React. Also juggling internships, which is a bold lifestyle choice.<br><br>👯 I’m looking to collaborate on<br>AI agent systems, RAG-based products, hackathon projects with real-world impact, and anything that mixes backend sanity with frontend polish.<br><br>🤝 I’m looking for help with<br>Advanced agent orchestration patterns, production-grade observability for LLM systems, and turning “cool PoC” into “this actually scales.”<br><br>🌱 I’m currently learning<br>Agentic frameworks, vector databases, evaluation + monitoring for LLMs, and how not to overengineer things (progress is slow).<br><br>💬 Ask me about<br>RAG systems, FastAPI backends, React + Vite setups, AI project architecture, LeetCode in C++, hackathons, or how many things can break at once in a single deployment.<br><br>⚡ Fun fact<br>I build AI systems that talk back, yet still end up debugging at 2 a.m. like a regular human. Tragic and impressive.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-haque-781909222/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/RehanHaque/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ray.haaannnn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rehan.haque@hsc.com)
 
 # 💻 Tech Stack:
